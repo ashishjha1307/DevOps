@@ -2,7 +2,7 @@ package com.training.classes;
 
 import java.io.Serializable;
 
-public class Book  {
+public class  Book  {
 
 	
 		private int isbn;
